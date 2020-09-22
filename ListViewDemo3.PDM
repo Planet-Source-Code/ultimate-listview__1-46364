@@ -1,0 +1,171 @@
+[Root]
+Most Recent Package=K. Stafford. ListView Demo 1.0
+
+
+[Package|K. Stafford. ListView Demo 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\listview
+
+[Package|K. Stafford. ListView Demo 1.0|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|K. Stafford. ListView Demo 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|K. Stafford. ListView Demo 1.0|Files Found]
+
+[Package|K. Stafford. ListView Demo 1.0|Files Released]
+
+[Package|K. Stafford. ListView Demo 1.0|Missing Dependency Information]
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\tiffexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\textexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\rtfexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\pdfexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\htmlexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\exclexpt.dll=
+C:\WINNT\system32\arpro2.dll=
+C:\WINNT\system32\msadox.dll=
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+C:\WINNT\system32\tiffexpt.dll=
+C:\WINNT\system32\textexpt.dll=
+C:\WINNT\system32\rtfexpt.dll=
+C:\WINNT\system32\pdfexpt.dll=
+C:\WINNT\system32\htmlexpt.dll=
+C:\WINNT\system32\exclexpt.dll=
+
+[Package|K. Stafford. ListView Demo 1.0|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+
+[Package|K. Stafford. ListView Demo 1.0|Files Added]
+C:\kieran\Visual Basic\Project\sample.mdb=
+C:\kieran\Visual Basic\Project\BIBLIO.MDB=
+C:\kieran\Visual Basic\Project\NWIND.MDB=
+
+[Package|K. Stafford. ListView Demo 1.0|Files Removed]
+
+[Package|K. Stafford. ListView Demo 1.0|Files In Project]
+C:\kieran\Visual Basic\Project\ListViewDemo.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\oleaut32.dll=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\asycfilt.dll=Yes
+C:\WINNT\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\msadox.dll=Yes
+C:\WINNT\system32\arpro2.dll=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\exclexpt.dll=Yes
+C:\WINNT\system32\htmlexpt.dll=Yes
+C:\WINNT\system32\pdfexpt.dll=Yes
+C:\WINNT\system32\rtfexpt.dll=Yes
+C:\WINNT\system32\textexpt.dll=Yes
+C:\WINNT\system32\tiffexpt.dll=Yes
+C:\kieran\Visual Basic\Project\sample.mdb=Yes
+C:\kieran\Visual Basic\Project\BIBLIO.MDB=Yes
+C:\kieran\Visual Basic\Project\NWIND.MDB=Yes
+
+[Package|K. Stafford. ListView Demo 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|K. Stafford. ListView Demo 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|K. Stafford. ListView Demo 1.0|Install Locations]
+C:\kieran\Visual Basic\Project\ListViewDemo.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\msadox.dll=$(WinSysPath)
+C:\WINNT\system32\arpro2.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\exclexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\htmlexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\pdfexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\rtfexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\textexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\tiffexpt.dll=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\exclexpt.dll=$(WinSysPath)
+C:\WINNT\system32\htmlexpt.dll=$(WinSysPath)
+C:\WINNT\system32\pdfexpt.dll=$(WinSysPath)
+C:\WINNT\system32\rtfexpt.dll=$(WinSysPath)
+C:\WINNT\system32\textexpt.dll=$(WinSysPath)
+C:\WINNT\system32\tiffexpt.dll=$(WinSysPath)
+C:\kieran\Visual Basic\Project\sample.mdb=$(AppPath)
+C:\kieran\Visual Basic\Project\BIBLIO.MDB=$(AppPath)
+C:\kieran\Visual Basic\Project\NWIND.MDB=$(AppPath)
+
+[Package|K. Stafford. ListView Demo 1.0|Configure Shared Files]
+Applicable=Yes
+C:\kieran\Visual Basic\Project\ListViewDemo.exe=No
+C:\kieran\Visual Basic\Project\sample.mdb=No
+C:\kieran\Visual Basic\Project\BIBLIO.MDB=No
+C:\kieran\Visual Basic\Project\NWIND.MDB=No
+
+[Package|K. Stafford. ListView Demo 1.0|Distribution]
+Type=single
+Size=
+Title=K. Stafford Listview
+
+[Package|K. Stafford. ListView Demo 1.0|Package]
+PackageFolder=C:\listview
+ProjectFolder=C:\kieran\Visual Basic\Project
+ServerSideCab=
+File1=C:\listview\setup.exe
+File2=C:\listview\Setup.Lst
+File3=C:\listview\ListViewDemo.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|K. Stafford. ListView Demo 1.0|IconGroups]
+Group0=ListView
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|K. Stafford. ListView Demo 1.0|ListView]
+Icon1=ListViewDemo.exe
+Title1=ListView Demo
+StartIn1=$(AppPath)
+Key1=Icon1
